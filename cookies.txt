@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.instahealthsolutions.com	TRUE	/blog/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+px.ads.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=VGST05:g=1885:u=1:i=1590480750:t=1590567150:s=AQEx6KRpjptA7nEiZQ4xbnpYcuO6eJ1r"
+px.ads.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+31yn48237s4i3n2d4u2bt0mr-wpengine.netdna-ssl.com	TRUE	/	FALSE	1999999999	wordpress_google_apps_login	dad91af68d290d2ddc9c748a610cd370
+www.instahealthsolutions.com	TRUE	/	FALSE	1999999999	wordpress_google_apps_login	1058ec0da640af151b7c1309547348ab
+
