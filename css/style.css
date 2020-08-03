@@ -1634,17 +1634,21 @@ i.digits {
     position: relative;
     display: block;
 }
+.processflows_row same{
+    clear: both;
+    display: block;
 
+}
 .processflows_row:after {
     clear: both;
     display: block;
-    content: "";
+    /* content: ""; */
 }
 
 .processflows_list {
     position: relative;
     top: 0;
-    width: 50%;
+    width: 60%;
 }
 
 .processflows_cnt {
